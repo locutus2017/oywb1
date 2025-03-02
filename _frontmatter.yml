@@ -32,9 +32,7 @@ format:
     coverpage-footer: |
       U.S. DEPARTMENT OF COMMERCE \
       \
-      National Oceanic and Atmospheric Administration \
-      National Marine Fisheries Service \
-      Northwest Fisheries Science Center
+      National Oceanic and Atmospheric Administration
     coverpage-theme:
       title-style: "plain"
       title-align: "left"
